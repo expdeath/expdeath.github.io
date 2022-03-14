@@ -36391,17 +36391,19 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 106px;
+    min-height: 82px;
   }
 
   .u-header .u-image-1 {
     width: 64px;
-    margin-top: 17px;
+    height: 71px;
+    margin-top: 7px;
     margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-top: -52px;
+    margin-top: -48px;
+    margin-bottom: 20px;
   }
 }
 .u-footer .u-sheet-1 {
