@@ -251,7 +251,6 @@
 
   .u-section-2 .u-image-2 {
     height: 148px;
-    transition-duration: 0.5s;
     margin-right: initial;
     margin-left: initial;
   }
@@ -608,7 +607,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 590px;
-  background-image: url("images/i3-31.png");
+  background-image: url("images/i3-32.png");
   background-position: 50% 50%;
 }
 
@@ -810,7 +809,7 @@
 
 .u-section-6 .u-image-1 {
   min-height: 425px;
-  background-image: url("images/i3-32.png");
+  background-image: url("images/i3-33.png");
   background-position: 50% 50%;
 }
 
